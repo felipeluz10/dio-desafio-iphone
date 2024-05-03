@@ -18,3 +18,6 @@ Com base no vídeo de lançamento do iPhone conforme link abaixo, elabore em uma
 * Repodutor Musicial: tocar, pausar, selecionarMusica
 * Aparelho Telefônico: ligar, atender, iniciarCorrerioVoz
 * Navegador na Internet: exibirPagina, adicionarNovaAba, atualizarPagina
+
+### Diagrama de classes simplificado.
+ ![image](https://github.com/felipeluz10/dio-desafio-iphone/assets/37453325/fb9e490d-e90b-4485-9d32-bc0d8223d9bb)
